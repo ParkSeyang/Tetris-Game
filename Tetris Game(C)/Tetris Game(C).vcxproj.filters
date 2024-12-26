@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TetrisBasic.c">
+    <ClCompile Include="Tetris_Basic.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TetrisBlock.c">
+    <ClCompile Include="Tetris_Blocks.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TetrisConsoleCursor.c">
+    <ClCompile Include="Tetris_ConsoleCursor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TetrisController.c">
+    <ClCompile Include="Tetris_Controller.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="tetris_Screene.c">
+    <ClCompile Include="Tetris_Screene.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Tetris_AddBlockColor.c">
@@ -35,19 +35,19 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Tetris(born).h">
+    <ClInclude Include="Tetris_AddBlockColor.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="헤더.h">
+    <ClInclude Include="Tetris_Controller.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="헤더1.h">
+    <ClInclude Include="Tetris_ConsoleCursor.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="헤더2.h">
+    <ClInclude Include="Tetris_Blocks.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="헤더3.h">
+    <ClInclude Include="Tetris_Screene.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

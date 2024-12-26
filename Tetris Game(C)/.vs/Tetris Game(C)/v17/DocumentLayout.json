@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\",
+  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93DE7FE6-2FC9-45D9-BCA1-B719E4DFE7E4}|..\\Test\\Test.vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Basic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_Basic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:tetris_AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Blocks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_Blocks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisBasic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:TetrisBasic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3543.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:\uD5E4\uB3543.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3542.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:\uD5E4\uB3542.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3541.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:\uD5E4\uB3541.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB354.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:\uD5E4\uB354.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_Screene.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_Screene.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:tetris_Screene.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisBlock.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:TetrisBlock.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_ConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_ConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:TetrisConsoleCursor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Controller.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_Controller.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisController.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:TetrisController.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_AddBlockColor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris(born).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris(born).h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_ConsoleCursor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_ConsoleCursor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Blocks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:Tetris_Blocks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_Screene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:tetris_Screene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B46DB729-70E2-40F5-BE2F-5178824E772E}|Tetris Game(C).vcxproj|solutionrelative:tetris_AddBlockColor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,167 +57,161 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c",
-              "RelativeDocumentMoniker": "..\\Test\\Test.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c",
-              "RelativeToolTip": "..\\Test\\Test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-24T09:57:30.172Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "\uD5E4\uB3543.h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3543.h",
-              "RelativeDocumentMoniker": "\uD5E4\uB3543.h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3543.h",
-              "RelativeToolTip": "\uD5E4\uB3543.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T09:43:58.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "\uD5E4\uB3542.h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3542.h",
-              "RelativeDocumentMoniker": "\uD5E4\uB3542.h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3542.h",
-              "RelativeToolTip": "\uD5E4\uB3542.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T09:43:52.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "\uD5E4\uB3541.h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3541.h",
-              "RelativeDocumentMoniker": "\uD5E4\uB3541.h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB3541.h",
-              "RelativeToolTip": "\uD5E4\uB3541.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T09:43:47.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "\uD5E4\uB354.h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB354.h",
-              "RelativeDocumentMoniker": "\uD5E4\uB354.h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\\uD5E4\uB354.h",
-              "RelativeToolTip": "\uD5E4\uB354.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T09:43:41.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tetris_AddBlockColor.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.c",
-              "RelativeDocumentMoniker": "Tetris_AddBlockColor.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.c",
-              "RelativeToolTip": "Tetris_AddBlockColor.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-24T09:42:43.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "tetris_Screene.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_Screene.c",
-              "RelativeDocumentMoniker": "tetris_Screene.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\tetris_Screene.c",
-              "RelativeToolTip": "tetris_Screene.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-24T09:42:13.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TetrisController.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisController.c",
-              "RelativeDocumentMoniker": "TetrisController.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisController.c",
-              "RelativeToolTip": "TetrisController.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-12-24T09:39:37.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TetrisConsoleCursor.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisConsoleCursor.c",
-              "RelativeDocumentMoniker": "TetrisConsoleCursor.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisConsoleCursor.c",
-              "RelativeToolTip": "TetrisConsoleCursor.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Tetris_ConsoleCursor.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_ConsoleCursor.c",
+              "RelativeDocumentMoniker": "Tetris_ConsoleCursor.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_ConsoleCursor.c",
+              "RelativeToolTip": "Tetris_ConsoleCursor.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-24T09:38:08.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TetrisBlock.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisBlock.c",
-              "RelativeDocumentMoniker": "TetrisBlock.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisBlock.c",
-              "RelativeToolTip": "TetrisBlock.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Tetris_Blocks.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Blocks.c",
+              "RelativeDocumentMoniker": "Tetris_Blocks.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Blocks.c",
+              "RelativeToolTip": "Tetris_Blocks.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-24T09:36:48.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TetrisBasic.c",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisBasic.c",
-              "RelativeDocumentMoniker": "TetrisBasic.c",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\TetrisBasic.c",
-              "RelativeToolTip": "TetrisBasic.c",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJ0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Tetris_Basic.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Basic.c",
+              "RelativeDocumentMoniker": "Tetris_Basic.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Basic.c",
+              "RelativeToolTip": "Tetris_Basic.c",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-23T09:01:24.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Tetris(born).h",
-              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris(born).h",
-              "RelativeDocumentMoniker": "Tetris(born).h",
-              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris(born).h",
-              "RelativeToolTip": "Tetris(born).h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Tetris_Screene.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Screene.c",
+              "RelativeDocumentMoniker": "Tetris_Screene.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Screene.c",
+              "RelativeToolTip": "Tetris_Screene.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-24T09:42:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tetris_Controller.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Controller.c",
+              "RelativeDocumentMoniker": "Tetris_Controller.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Controller.c",
+              "RelativeToolTip": "Tetris_Controller.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-24T09:39:37.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tetris_AddBlockColor.h",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.h",
+              "RelativeDocumentMoniker": "Tetris_AddBlockColor.h",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.h",
+              "RelativeToolTip": "Tetris_AddBlockColor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-24T09:34:29.699Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tetris_ConsoleCursor.h",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_ConsoleCursor.h",
+              "RelativeDocumentMoniker": "Tetris_ConsoleCursor.h",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_ConsoleCursor.h",
+              "RelativeToolTip": "Tetris_ConsoleCursor.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T09:43:47.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tetris_Controller.h",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Controller.h",
+              "RelativeDocumentMoniker": "Tetris_Controller.h",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Controller.h",
+              "RelativeToolTip": "Tetris_Controller.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T09:43:41.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tetris_Blocks.h",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Blocks.h",
+              "RelativeDocumentMoniker": "Tetris_Blocks.h",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Blocks.h",
+              "RelativeToolTip": "Tetris_Blocks.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T09:43:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tetris_Screene.h",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Screene.h",
+              "RelativeDocumentMoniker": "Tetris_Screene.h",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_Screene.h",
+              "RelativeToolTip": "Tetris_Screene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T09:43:58.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tetris_AddBlockColor.c",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.c",
+              "RelativeDocumentMoniker": "Tetris_AddBlockColor.c",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tetris_AddBlockColor.c",
+              "RelativeToolTip": "Tetris_AddBlockColor.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-24T09:42:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test.c",
+              "DocumentMoniker": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c",
+              "ToolTip": "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c",
+              "RelativeToolTip": "..\\..\\..\\..\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Test\\Test.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-24T09:57:30.172Z"
             }
           ]
         }

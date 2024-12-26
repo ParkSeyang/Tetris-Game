@@ -1,3 +1,4 @@
-﻿TetrisBasic.obj : error LNK2005: main이(가) Test.obj에 이미 정의되어 있습니다.
-Test.obj : error LNK2019: GetstdHandleGotoXY 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\Tetris-Game\Tetris Game(C)\x64\Debug\Tetris Game(C).exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+﻿  Tetris_Screene.c
+C:\Users\SBS\Desktop\Tetris-Game\Tetris Game(C)\Tetris_Screene.c(25,2): warning C4013: 'GotoXY'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+Tetris_Screene.obj : error LNK2019: GotoXYGameTitle 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\SBS\Desktop\Tetris-Game\Tetris Game(C)\x64\Debug\Tetris Game(C).exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
