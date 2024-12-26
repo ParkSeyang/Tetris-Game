@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.c" />
+    <ClCompile Include="TetrisBasic.c" />
+    <ClCompile Include="TetrisBlock.c" />
+    <ClCompile Include="TetrisConsoleCursor.c" />
+    <ClCompile Include="TetrisController.c" />
+    <ClCompile Include="Tetris_AddBlockColor.c" />
+    <ClCompile Include="tetris_Screene.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tetris(born).h" />
+    <ClInclude Include="헤더.h" />
+    <ClInclude Include="헤더1.h" />
+    <ClInclude Include="헤더2.h" />
+    <ClInclude Include="헤더3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
