@@ -18,27 +18,26 @@ void textcolor(int color_number)
 void GameTitle()
 {
 	int TETRIS_X = 30;
-	int TETRIS_Y = 5;
+	int TETRIS_Y = 8;
 	char introduce[34] = { "Made by Park Seyang" };
 
 
-	GotoXY(5, 5);
-	Sleep(30);
-	printf("бс");
-	int tetris[8][28] = {
-		1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
-		1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
-		1,0,2,2,2,2,2,0,1,1,1,1,1,0,3,3,3,3,0,4,0,0,5,5,5,5,0,1,
-		1,0,0,0,2,0,0,0,1,0,0,0,0,0,3,0,0,3,0,4,0,5,0,0,0,0,0,1,
-		1,0,0,0,2,0,0,0,1,1,1,1,1,0,3,3,3,3,0,4,0,0,5,5,5,0,0,1,
-		1,0,0,0,2,0,0,0,1,0,0,0,0,0,3,0,3,0,0,4,0,0,0,0,0,5,0,1,
-		1,0,0,0,2,0,0,0,1,1,1,1,1,0,3,0,0,3,0,4,0,5,5,5,5,0,0,1,
-		1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-
+	GotoXY(4, 4);
+	Sleep(50);
+	int tetris[9][34] = {
+		6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+		6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,
+		6,0,5,5,5,5,5,0,1,1,1,1,0,0,5,5,5,5,5,0,3,3,3,3,0,2,0,0,4,4,4,4,0,6,
+		6,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,3,0,0,3,0,2,0,4,0,0,0,0,0,6,
+		6,0,0,0,5,0,0,0,1,1,1,1,0,0,0,0,5,0,0,0,3,3,3,3,0,2,0,0,4,4,4,0,0,6,
+		6,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,3,0,3,0,0,2,0,0,0,0,0,4,0,6,
+		6,0,0,0,5,0,0,0,1,1,1,1,0,0,0,0,5,0,0,0,3,0,0,3,0,2,0,4,4,4,4,0,0,6,
+		6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,
+		6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
 	};
-	for (int y = 0; y < 5; y++)
+	for (int y = 0; y < 9; y++)
 	{
-		for (int x = 0; x < 24; x++)
+		for (int x = 0; x < 34; x++)
 		{
 			if (tetris[y][x] == 0)
 			{
@@ -49,7 +48,7 @@ void GameTitle()
 			else if (tetris[y][x] == 1)
 			{
 				textcolor(YELLOW);
-				GotoXY(TETRIS_X + x * 2, TETRIS_Y + 2);
+				GotoXY(TETRIS_X + x * 2, TETRIS_Y + y);
 				printf("бс");
 				textcolor(15);
 				Sleep(350);
@@ -73,7 +72,7 @@ void GameTitle()
 			else if (tetris[y][x] == 4)
 			{
 				GotoXY(TETRIS_X + x * 2, TETRIS_Y + y);
-				textcolor(SKYBLUE);
+				textcolor(PURPLE);
 				printf("бс");
 				textcolor(15);
 				Sleep(5);
@@ -85,7 +84,13 @@ void GameTitle()
 				printf("бс");
 				textcolor(15);
 			}
-
+			else if (tetris[y][x] == 6)
+			{
+				GotoXY(TETRIS_X + x * 2, TETRIS_Y + y);
+				textcolor(DARKGRAY);
+				printf("бс");
+				textcolor(15);
+			}
 		}
 	}
 
@@ -141,9 +146,9 @@ void InGameFrame()
 		1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 	};
 
-	for (int y = 0; y < 9; y++)
+	for (int y = 0; y < 8; y++)
 	{
-		for (int x = 0; x < 14; x++)
+		for (int x = 0; x < 28; x++)
 		{
 			GotoXY(picture_X + x * 2, picture_Y + y);
 			if (TetrisPicture[y][x] == 0)
@@ -250,19 +255,19 @@ void printfBoards() {
 	for (int y = 0; y < BoardHeight; y++) {
 		GotoXY(BoardX, BoardY + y);
 		if (board[y][0] == 1) {
-			textcolor(3);	printf("в╠");
+			textcolor(3);	printf("в╦");
 		}
 		if (board[y][BoardWidth - 1] == 1) {
 			GotoXY(BoardX + BoardWidth * 2 - 2, BoardY + y);
 			textcolor(3);
-			printf("в╠");
+			printf("в╦");
 		}
 		textcolor(WHITE);
 	}
 	for (int x = 0; x < BoardWidth; x++) {
 		GotoXY(BoardX + x * 2, BoardY + BoardHeight - 1);
 		if (board[BoardHeight - 1][x] == 1) {
-			textcolor(3);	printf("в╠");
+			textcolor(3);	printf("в╦");
 		}
 		textcolor(WHITE);
 	}

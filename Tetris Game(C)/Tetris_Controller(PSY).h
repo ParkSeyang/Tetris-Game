@@ -13,8 +13,8 @@ enum TetrisBoard
 {
 	BoardWidth = 14,
 	BoardHeight = 22,
-	BoardX = 4,
-	BoardY = 3,
+	BoardX = 38,
+	BoardY = 8,
 };
 enum blockProperty
 {
