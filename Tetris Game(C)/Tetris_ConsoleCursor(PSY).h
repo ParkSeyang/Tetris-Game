@@ -1,12 +1,12 @@
 #pragma once
 
-#ifndef consoleCursor
+#ifndef consloeCursor
 #define consoleCursor
 
-#include <windows.h>
+#include <Windows.h>
 
 COORD getCursor(void);
 void GotoXY(int x, int y);
 void CursorView(boolean show);
 
-#endif // !ConsoleCursor
+#endif

@@ -5,4 +5,3 @@ void colorRetention(int colorType);
 void prevAddBlockColor();
 void addCurrentBlockColor();
 #endif // !AddColor
-

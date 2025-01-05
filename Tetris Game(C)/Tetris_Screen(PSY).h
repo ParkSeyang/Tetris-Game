@@ -1,21 +1,22 @@
-#include "Tetris_Blocks(PSY).h"
-#include "Tetris_Controller(PSY).h"
-
+#include "Tetris_blocks(PSY).h"
+#include "Tetris_controller(PSY).h"
 #pragma once
 
 #ifndef Frame
 #define Frame
 
 typedef enum Color {
-	DARKGRAY = 8,
+	DARKPURPLE = 5,
+	DARKYELLOW = 6,
+	GRAY = 8,
 	BLUE = 9,
 	GREEN = 10,
-	SKYBLUE = 11,
+	AQUA = 11,
 	RED = 12,
 	PURPLE = 13,
 	YELLOW = 14,
 	WHITE = 15
-} COLOR;
+}COLOR;
 
 int static level;
 
@@ -25,7 +26,7 @@ void ShowNextBlock();
 
 void DeleteNextBlock();
 
-int NextBlock[6][6];
+int NextBlock[6][7]; 
 int static Rotation = 0;
 
 void EndGameFrame();
@@ -36,9 +37,8 @@ void deleteBlock();
 
 void createBoards();
 int board[BoardHeight][BoardWidth];
-void printfBoards();
+void printBoards();
 
 void textcolor(int color_number);
 
-#endif 
-
+#endif
