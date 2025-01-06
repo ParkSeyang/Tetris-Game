@@ -48,7 +48,7 @@ boolean IsOverHeight()
 }
 boolean IsCollision(int shape, int rotate, int curX, int curY) 
 {
-    // x좌표여서 나누기 2해야 한다.
+    
     BlockROW = curX / 2 - BoardX / 2;
     BlockCOL = curY - BoardY;
     for (int y = 0; y < BlockSIZE; y++) 
@@ -247,7 +247,7 @@ void deleteLine()
     printScore();
 }
 
-//블록이 새로 보드안에 출력될 때 초기 값.
+
 void newBlock() 
 {
     turn = 0;
@@ -266,8 +266,7 @@ void tetris_process()
     InGameFrame();
     ShowNextBlock();
     Sleep(1000);
-    //방향키를 계속해서 알수 있도록 while(){}문과  _kbhit() , _getch()메서드를 사용했습니다.
-    //이 함수 사용법은 제 블로그에 예시와 함께 부족하지만. 설명을 했습니다. 참고 해주시면 감사합니다.
+    
     while (1) 
     {
         if (IsNextBlock == true) 
