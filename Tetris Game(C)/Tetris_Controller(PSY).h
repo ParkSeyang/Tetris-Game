@@ -12,7 +12,7 @@
 
 #pragma comment(lib, "winmm.lib")
 
-#define BGM "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\Tetris-Game\\Tetris Game(C)\\Tobu-Melomania.wav"
+#define BGM "C:\\Users\\ghlwk_sc7hq61\\OneDrive\\Desktop\\게임 프로그래밍 개발자 수업 과정\\Tetris-Game\\Tetris Game(C)\\Tobu-Melomania.wav"
 
 enum boardProperty {
 	BoardWidth = 14,
