@@ -1,1 +1,12 @@
-﻿  Tetris Game(C).vcxproj -> C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\Tetris-Game\Tetris Game(C)\x64\Debug\Tetris Game(C).exe
+﻿  Tetris_Basic(PSY).c
+  Tetris_Blocks.c
+  Tetris_ConsoleCursor.c
+  Tetris_Controller.c
+  Tetris_AddBlockColor.c
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\Tetris-Game\Tetris Game(C)\Tetris_Controller.c(19,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\Tetris-Game\Tetris Game(C)\Tetris_Controller.c(154,11): warning C4101: 'Pos' :참조되지 않은 지역 변수입니다.
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\Tetris-Game\Tetris Game(C)\Tetris_Controller.c(264,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tetris_Screene.c
+C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\Tetris-Game\Tetris Game(C)\Tetris_Screene.c(438,5): warning C4013: 'addCurrentBlockColor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Tetris Game(C).vcxproj -> C:\Users\ghlwk_sc7hq61\OneDrive\Desktop\게임 프로그래밍 개발자 수업 과정\Tetris-Game\Tetris Game(C)\x64\Debug\Tetris Game(C).exe
